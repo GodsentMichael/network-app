@@ -36,7 +36,7 @@
                             <p>Please enter your activation code below to proceed to the login page.</p>
                             <form class="form-auth-small" action="page-login.php">
                                 <div class="form-group">                                    
-                                    <input type="email" class="form-control" id="signup-password" placeholder="Email">
+                                    <input type="email" class="form-control" id="signup-password" placeholder="Enter code">
                                 </div>
                                 <button href="page-reset-password.php" type="submit" class="btn btn-primary btn-lg btn-block">Check code</button>
                                 <div class="bottom">
